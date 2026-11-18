@@ -67,7 +67,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Expense Tracker</h1>
+      <h1>My Expense Tracker</h1>
 
       {error && <div className="error">{error}</div>}
 
